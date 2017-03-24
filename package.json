@@ -1,0 +1,19 @@
+{
+  "license": "MIT",
+  "version": "1.0.0",
+  "name": "node_crawler",
+  "author": "Bruno Duarte Brito",
+  "description": "A web crawler based on NodeJS",
+  "dependencies": {
+    "dateformat": "^2.0.0",
+    "jsonfile": "^2.4.0",
+    "libxmljs-dom": "0.0.8",
+    "minimist": "^1.2.0",
+    "needle": "^1.5.2",
+    "osmosis": "^1.1.4"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "git://github.com/brunodb3/node_crawler.git"
+  }
+}
